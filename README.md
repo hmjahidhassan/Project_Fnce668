@@ -8,7 +8,7 @@ This repository contains the files for the **Project_Fnce668** analysis. The pro
 This Excel file contains the main dataset used in the project. It includes historical prices for oil stocks, non-oil stocks, oil commodity prices (represented by `CL1 Comdty`), and the SPX index. The data is structured with dates as the index and price columns for each asset.
 
 ### 2. `Raw Price Data.xls`
-This is the raw data file initially used for data preparation and cleaning. It includes unprocessed historical prices for the assets under analysis. The raw file provides the foundational data before any modifications or transformations are applied in the project.
+This is the raw data file initially used for data preparation and cleaning. It includes unprocessed historical prices for the assets under analysis. The raw file provides the foundational data before any modifications or transformations are applied in the project. These raw price data are collected from the Bloomberg Terminal.
 
 ### 3. `Term_Project_New.py`
 This Python script performs the main analysis for the project. It includes the following steps:
